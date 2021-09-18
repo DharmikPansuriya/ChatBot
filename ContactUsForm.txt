@@ -1,7 +1,6 @@
 <-----Enquiry Form----->
 
-
 Name: Dharmik
-Phone number: 9874015701
+Phone number: 1234567890
 Email Id: dharmik@gmail.com
 Query: Can i get more information about placement cell?
